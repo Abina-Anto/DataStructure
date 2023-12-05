@@ -25,7 +25,7 @@ printf("\n");
 for(j=0;j<n;j++)
 printf("%d\t",spanning[i][j]);
 }
-printf("\n\nTotal cost of spanning tree=%d",total_cost);
+printf("\n\nTotal cost of minimum spanning tree=%d",total_cost);
 return 0;
 }
  
